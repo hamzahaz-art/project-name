@@ -12,7 +12,7 @@ apt install -y wget curl screen && apt update -y && apt upgrade -y && apt instal
 
 ## Silahkan Hubungi/ Supot Me
 # My Telegram : <a href="https://t.me/yudhydm" 
-### https://wa.me/628387172
+### https://wa.me/6283871721284
 
 
 ## ⏩ AUTOSCRIPT WEBSOCKET MULTIPORT 443 DETAILS ⏪

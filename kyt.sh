@@ -9,12 +9,12 @@ NC='\e[0m'
 apt update && apt upgrade
 apt install python3 python3-pip git
 cd /usr/bin
-wget https://install.yudhy.net/2024/bot/bot.zip
+wget https://github.com/hamzahaz-art/project-name/raw/refs/heads/main/bot/bot.zip
 unzip bot.zip
 mv bot/* /usr/bin
 chmod +x /usr/bin/*
 clear
-wget https://install.yudhy.net/2024/bot/kyt.zip
+wget https://github.com/hamzahaz-art/project-name/raw/refs/heads/main/bot/kyt.zip
 unzip kyt.zip
 pip3 install -r kyt/requirements.txt
 
