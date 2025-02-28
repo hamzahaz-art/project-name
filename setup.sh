@@ -100,6 +100,8 @@ Info="(${green}Active${NC})"
 sts="${Info}"
 echo -e "\e[32mloading...\e[0m"
 clear
+# REPO    
+    REPO="https://raw.githubusercontent.com/hamzahaz-art/project-name/main/"
 
 ####
 start=$(date +%s)

@@ -30,7 +30,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://install.inj3ct0r.zone/menu/menu.zip
+    wget https://raw.githubusercontent.com/hamzahaz-art/project-name/main/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
